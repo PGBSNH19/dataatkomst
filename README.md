@@ -11,3 +11,10 @@ Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 16|  |                                       |Sammanfattning och frågor<br />2019-04-15<br />8:30 - 16:00||Skriftlig tentamen??<br />2019-04-17<br />9:00 - 11:00
 
 Länkarna i schemat leder till detaljerad information om enskilda lektioner och uppgifter.
+
+# Projekter och deadlines
+N/A
+
+# Annan information
+* [Kursbok](info_book.md) : I kursen använder vi boken *Entity Framework Core in action* som frivillig material (den behövs inte för att kunna klara av kursen)
+* [Verktygslådan](info_tools.md) : Vi kommer i kursen att använda en rad olika versktyg
