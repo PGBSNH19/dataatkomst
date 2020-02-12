@@ -7,12 +7,16 @@
     border: 1px solid #054368;
 }
 
-.button{
+#banner.fork{
+    background-color:#9ab09a;
+}
+
+#banner.button{
     background: linear_gradient(#99da99, #99da99);
     border: 1px solid #3f6843;
 }
 
-.button:hover {
+#banner.button:hover {
     background-color: #77b277;
 
 }
@@ -25,6 +29,6 @@
     margin-bottom: 2em;
 }
 
-nav ul{
+nav > ul{
     margin: 30px 0 20px;
 }
