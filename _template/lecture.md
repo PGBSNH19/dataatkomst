@@ -1,8 +1,8 @@
-# Rödatråden: C# refresh
+# Titel på lektion
 
 Tisdag 3:e mars 2020
 
-Denna lektion är en uppstarts lektion inför dom kommande 14 lektioner.
+![draft](/_assets/images/draft.jpg)
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:00
