@@ -16,10 +16,10 @@ Länkarna i schemat leder till detaljerad information om enskilda lektioner och 
 N/A
 
 # Kontakt
-* Frågor om kursen: Stephan Johansen, :heart:[PingPong](https://yh.pingpong.se/courseId/9766/):heart:
-* Frågor om utbildningen: Helén Olofsson, :heart:[PingPong](https://yh.pingpong.se/courseId/9766/):heart:, 031-700 83 19
+* Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/)
+* Frågor om utbildningen: Helén Olofsson, [PingPong](https://yh.pingpong.se/courseId/9766/), 031-700 83 19
 
 # Annan information
-* Slides: Se :heart:[PingPong](https://yh.pingpong.se/courseId/9766/content.do?id=3419879):heart:
+* Slides: :heart: [PingPong](https://yh.pingpong.se/courseId/9766/content.do?id=3419879) :heart:
 * [Kursbok](info_book.md) : I kursen använder vi boken *Entity Framework Core in action* som frivillig material (den behövs inte för att kunna klara av kursen)
 * [Verktygslådan](info_tools.md) : Vi kommer i kursen att använda en rad olika versktyg
