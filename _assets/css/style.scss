@@ -1,0 +1,26 @@
+---
+---
+
+@import "{{ site.theme }}";
+#banner{
+    background: #06507d;
+    border: 1px solid #054368;
+}
+
+#banner.button{
+    background: linear_gradient(#99da99, #99da99);
+    border: 1px solid #3f6843;
+}
+
+#banner.button:hover {
+    background-color: #77b277;
+
+}
+
+.backlink a{
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+    font-size: 1.2em;
+    margin-bottom: 2em;
+}

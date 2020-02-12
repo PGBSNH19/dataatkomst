@@ -2,7 +2,7 @@
 
 Tisdag 3:e mars 2020
 
-![draft](/dataatkomst/images/draft.jpg)
+![Draft](/dataatkomst/assets/images/draft.jpg)
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:00
