@@ -2,7 +2,7 @@
 
 Tisdag 3:e mars 2020
 
-![Draft](/dataatkomst/assets/images/draft.jpg)
+![Draft](/dataatkomst/assets/images/draft.png)
 
 Denna lektion är en uppstarts lektion inför dom kommande 14 lektioner.
 
