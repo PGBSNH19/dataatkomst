@@ -36,7 +36,11 @@ td{
     border-right: 1px solid #4e6979;
 }
 
+th:first-child{
+    color:#4e6979;
+}
 td:first-child{
+    color:#4e6979;
     border-left: 1px solid #4e6979;
     border-right: 1px solid #4e6979;
 }
