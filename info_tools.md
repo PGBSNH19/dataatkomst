@@ -1,26 +1,28 @@
 # Verktygslådan
 ## Konton
-- [Github](https://github.com/) (För att hosta vår kod i alla projekt)
-- [Azure DevOps](https://azure.microsoft.com/en-us/services/devops/) (För byggen och CI)
-
-## Programmering
-- [Visual Studio Code](https://code.visualstudio.com/)
-- Visual Studio 2019 (Community edition räcker)
+- [GitHub](https://github.com/) (För att hosta vår kod i alla projekt)
 
 ## Ramverk
-- [.NET core](https://dotnet.microsoft.com/)
+
+- [.NET core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/)
+
+## Integrated Development Environment (IDE)
+
+Det rekommenderas att ni har båda dissa verktyg
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio 2019](https://visualstudio.microsoft.com/vs/) (Community edition räcker)
 
 ## Versionskontroll
-Verktyg som vi använder till att jobba med vår kod i Git versionkontroll.
+Vi kommer att jobba med git under hela kursen, och alla bör ha samma verktyg.
+- [GitHub Desktop](https://desktop.github.com/) (Krav), denna klient är mycket enkel att använda, och har bra integration med GitHub, den har så klart inte alla avancerade funktioner, men den har dom vi behöver i klassen.
+
+Andre frivilliga applikationer:
+
 - [Git](https://git-scm.com/)
 - Visual Studio 2019
-- [Github desktop](https://desktop.github.com/)
 - [Source Tree](https://www.sourcetreeapp.com/)
 - [GitKraken](https://www.gitkraken.com/)
 
-## API test
-Dissa program kan man typ se som en webbläsere för APIer. Så var vi använder en vanlig webbläsere till att komma åt ressourcer (HTML sider) på en webbserver som enbart bygger på GET requests, kan vi använda en dissa vertyg till att ställa in vilken http metod man vill använda, men svaret tillbaka är inte grafisk som vi känner det från webbläseren.
-- [Postman](https://www.getpostman.com/)
-- [Insomnia](https://insomnia.rest/)
-- [API client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client), Visual Studio Code extension
+
 
