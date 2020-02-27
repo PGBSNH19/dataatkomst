@@ -13,6 +13,7 @@ Lektion från kl. 8:30 till kl. 16:00
 2. x
 
 ## Kurslitteratur
+https://codeburst.io/how-to-do-object-oriented-programming-the-right-way-1339c1a25286
 
 ## Frivillig övning
 
