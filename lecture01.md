@@ -23,7 +23,10 @@ Lunch 12:00 till 13:00
 ## Lektionsteori
 tech.io
 
-## Vigitg kurslitteratur
+## Viktig kurslitteratur
+
+* [What is a pattern](https://refactoring.guru/design-patterns/what-is-pattern)
+
 * [Object orinted programming](https://brilliant.org/wiki/object-oriented-programming/)
 * [Classes](https://brilliant.org/wiki/classes-oop/)
 * [What are four basic principles of Object Oriented Programming?](https://medium.com/@cancerian0684/what-are-four-basic-principles-of-object-oriented-programming-645af8b43727)
@@ -32,10 +35,10 @@ tech.io
 * [Use case diagrams](https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-use-case-diagram/)
 *  [Introduction to CRC Cards](http://lore.ua.ac.be/Teaching/SE3BAC/CRCIntro.pdf)
 
-* 
-* https://sanaulla.info/2008/06/26/cohesion-and-coupling-two-oo-design-principles/
+* [Cohesion and Coupling: Two OO Design Principles](https://sanaulla.info/2008/06/26/cohesion-and-coupling-two-oo-design-principles/)
 
-## Backgrunds letteratur
+
+## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan använns till at få en djubere insikt i ämnen i klassen.
 * [How To Do Object Oriented Programming The Right Way](https://codeburst.io/how-to-do-object-oriented-programming-the-right-way-1339c1a25286) en kritik av klassisk OOP
 * [A Laboratory For Teaching  Object-Oriented Thinking](http://c2.com/doc/oopsla89/paper.html)
@@ -49,4 +52,4 @@ Detailed optional reading on [Inheritance in C#](https://www.tutorialspoint.com/
 Detailed optional reading on [OOP Concept for Beginners: What is Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
 (for more info read [Alan Kay and OO Programming](https://ovid.github.io/articles/alan-kay-and-oo-programming.html))
 
-C2C wiki: [Coupling And Cohesion](https://wiki.c2.com/?CouplingAndCohesion)
+C2 wiki: [Coupling And Cohesion](https://wiki.c2.com/?CouplingAndCohesion)
