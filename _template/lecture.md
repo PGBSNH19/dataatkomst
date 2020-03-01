@@ -17,9 +17,17 @@ Lunch 12:00 till 13:00
 
 ## Lektionsteori
 
-Teori, exempler och övningar
+Teori, exemplar och övningar. Bör genomgås innan lektionen.
 tech.io
 
 ## Viktig kurslitteratur
+Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.
+
+* bla
+* bla
 
 ## Bakgrunds litteratur
+Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
+
+* bla 
+* bla
