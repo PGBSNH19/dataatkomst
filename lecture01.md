@@ -2,8 +2,6 @@
 
 Tisdag 3:e mars 2020
 
-![Draft](/dataatkomst/assets/images/draft.png)
-
 Denna lektion är en uppstarts lektion inför dom kommande 14 lektioner, det primära fokus är på komma igång med C# igen efter databas och frontend kurs.
 
 ## Lektionsplan
@@ -53,3 +51,7 @@ Detailed optional reading on [OOP Concept for Beginners: What is Encapsulation](
 (for more info read [Alan Kay and OO Programming](https://ovid.github.io/articles/alan-kay-and-oo-programming.html))
 
 C2 wiki: [Coupling And Cohesion](https://wiki.c2.com/?CouplingAndCohesion)
+
+[Delegates (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/delegates/)
+
+[Lambda expressions (C# Programming Guide)](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/statements-expressions-operators/lambda-expressions)
