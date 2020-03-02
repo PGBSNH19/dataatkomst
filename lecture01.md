@@ -42,7 +42,6 @@ Detta är litteratur som är **bas för denna lektion**, detta bör läses innan
 ### Fluent API
 
 * Floyd May: [3 reasons why fluent APIs matter](https://www.pluralsight.com/blog/software-development/about-fluent-api)
-
 * Dimitrie Tataru: [How to Design and Implement the Fluent Interface Pattern in C#](https://assist-software.net/blog/design-and-implement-fluent-interface-pattern-c)
 
 
@@ -71,9 +70,7 @@ Detta är litteratur som är **frivillig**, och som kan kan används till at få
 ### Reflection
 
 * Microsoft: [Reflection](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/reflection)
-
 * Microsoft: [Late binding](https://docs.microsoft.com/en-us/dotnet/framework/reflection-and-codedom/dynamically-loading-and-using-types)
-
 * Joydip Kanjilal: [How to work with reflection in C#](https://www.infoworld.com/article/3027240/how-to-work-with-reflection-in-c.html)
 
 ### Attributes
