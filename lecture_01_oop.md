@@ -93,3 +93,4 @@ Detta är litteratur som är **frivillig**, och som kan kan används till at få
 * Martin Fowler: [FluentInterface](https://martinfowler.com/bliki/FluentInterface.html)
 * LinkedIn Learning: [Fluent API develpment](https://www.linkedin.com/learning/fluent-api-development-in-c-sharp/) (requires access)
 * Tom Fisher: [Fluent Code in C#](https://www.red-gate.com/simple-talk/dotnet/net-framework/fluent-code-in-c/)
+* [Developing a Fluent API is so cool !](https://medium.com/@ohadinho25/developing-a-fluent-api-is-so-cool-25e99cb64f7d)
