@@ -2,8 +2,6 @@
 
 Torsdag 5:e mars 2020
 
-![Draft](/dataatkomst/assets/images/draft.png)
-
 Denna lektion handlar om hur vi kan producera kod som är lätt att läsa och underhålla, också kallat Clean Code. För att uppnå Clean Code kommer vi i denna lektion att fokusera på best practice för kod, enhetstestar och SOLID principen. Detta bygger på [lektion 18](https://csharp.2019.plus.jakobkallin.com/18/) och [lektion 22](https://csharp.2019.plus.jakobkallin.com/22/) i C#-kursen.
 
 ## Lektionsplan
@@ -28,8 +26,7 @@ Lunch 12:00 till 13:00
 
 ## Lektionsteori
 
-Teori, exemplar och övningar. Bör genomgås innan lektionen.
-tech.io
+Teorin inför denna lektion är det som finns i **Viktig kurslitteratur** eftersom det mesta innehåll till denna lektion primärt är teoretisk.
 
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.
@@ -53,6 +50,7 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 ### SOLID
 * [The Principles of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
 * [S.O.L.I.D. Software Development, One Step at a Time](http://www.codemag.com/article/1001061)
+* [SOLID Principle with C# Example](https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example)
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
