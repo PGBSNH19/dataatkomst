@@ -32,7 +32,7 @@ Litet grovt skissat ser tidsplanen för en lektion ut som så:
 
 **Förmiddag 8:30 -> 12:00**
 
-Start på dagens kurs
+Start på dagens lektion
 
 Presentation av dagens ämne
 
@@ -50,4 +50,4 @@ Teori diskussion i grupp
 
 Par-programmerings övningar
 
-Avslutning av dagens kurs
+Avslutning av dagens lektion

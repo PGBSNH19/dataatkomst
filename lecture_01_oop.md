@@ -5,18 +5,28 @@ Tisdag 3:e mars 2020
 Denna lektion är en uppstarts lektion inför dom kommande 14 lektioner, det primära fokus är på komma igång med C# igen efter databas och frontend kurs.
 
 ## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:00
+Lektion från kl. 8:30 till kl. 16:30
 
 * 8:30 Introduktion till kurs
+  * Bording card
 * 9:00 Indelning av grupper
 * 9:15 Grupp diskussion av dagens ämnen
+  * Mindmaps (30 min)
+  * Rotation av mindmaps 5 min per grupp (40 min)
+  * Förberedelse av presentation (10 min)
+  * Presentation 2 min per grupp (20 min)
 * 11:00 Förövning inför eftermiddagens programmeringsövning
+  * Mindmap i grupp (20 min)
+  * CRC cards i grupp (30 min)
+  * Github classroom (5 min)
 
 Lunch 12:00 till 13:00
 
 * 13:00 Programmeringsövning i grupp
+  * Finns i GitHub
 * 16:00 Avslutning och frågor i klassen
 * 16:30 Slut på lektion
+  * Landing card
 
 ## Lektionsteori
 
