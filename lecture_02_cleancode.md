@@ -46,6 +46,8 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 ### Automatiserad test (Enhetstest / Unittest)
 
+* [The different types of software testing ](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+
 * [You Still Don’t Know How to Do Unit Testing](https://stackify.com/unit-testing-basics-best-practices/)
 * [C#-Fluent Interfaces for Unit Testing](https://medium.com/@ghadeer.kenawi/c-fluent-interfaces-for-unit-testing-860d9019e21d), kanske inte den bästa artikel om precis test av Fluent API, men den bästa som jag har hittat tills vidare.
 
