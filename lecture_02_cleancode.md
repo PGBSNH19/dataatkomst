@@ -47,7 +47,6 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 ### Automatiserad test (Enhetstest / Unittest)
 
 * [The different types of software testing ](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
-
 * [You Still Don’t Know How to Do Unit Testing](https://stackify.com/unit-testing-basics-best-practices/)
 * [C#-Fluent Interfaces for Unit Testing](https://medium.com/@ghadeer.kenawi/c-fluent-interfaces-for-unit-testing-860d9019e21d), kanske inte den bästa artikel om precis test av Fluent API, men den bästa som jag har hittat tills vidare.
 
@@ -74,6 +73,11 @@ Martin Fowler in [Refactoring: Doing Design After the Program Runs](https://www.
 * [Difference Between Cohesion and Coupling](https://stackoverflow.com/a/3085419/4675814)
 * [OOP Concept for Beginners: What is Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
 * [97 Journey Every Programmer should Accomplish](https://medium.com/@biratkirat/97-journey-every-programmer-should-accomplish-a0c53dbbfd47)
+* [When should I choose inheritance over an interface when designing C# class libraries?](https://stackoverflow.com/questions/5816563/when-should-i-choose-inheritance-over-an-interface-when-designing-c-sharp-class) 
+
+  > Inheritance describes an **is-a** relationship.
+  >
+  > Implementing an interface describes a **can-do** relationship.
 
 ### SOLID
 * [SOLID architecture principles using simple C# examples](https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp)
