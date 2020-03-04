@@ -18,7 +18,7 @@ Lektion från kl. 8:30 till kl. 16:30
 
 Lunch 12:00 till 13:00
 
-- 13:00 Programmeringsövning i grupp, Barista försatt
+- 13:00 Programmeringsövning i grupp, [Barista](https://github.com/PGBSNH19/project-the-barista) försatt
   - Finns i GitHub classroom
 - 16:00 Avslutning och frågor i klassen
   - Landing card
