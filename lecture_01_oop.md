@@ -49,6 +49,10 @@ Detta är litteratur som är **bas för denna lektion**, detta bör läses innan
 * Softstar: [Introduction to CRC Cards](http://lore.ua.ac.be/Teaching/SE3BAC/CRCIntro.pdf)
 * Mohamed Sanaulla: [Cohesion and Coupling: Two OO Design Principles](https://sanaulla.info/2008/06/26/cohesion-and-coupling-two-oo-design-principles/)
 
+### Lambda expressions
+
+* Tutorial Teacher: [Anatomy of the Lambda Expression](https://www.tutorialsteacher.com/linq/linq-lambda-expression)
+
 ### Fluent API
 
 * Floyd May: [3 reasons why fluent APIs matter](https://www.pluralsight.com/blog/software-development/about-fluent-api)
