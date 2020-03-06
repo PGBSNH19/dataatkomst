@@ -35,10 +35,9 @@ Lunch 12:00 till 12:45 **OBS**
   - Landing card
 - 16:00 Slut på lektion
 
-## Lektionsteori
+# Lektionsteori
 
 Teori, exemplar och övningar. Bör genomgås innan lektionen.
-tech.io
 
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.

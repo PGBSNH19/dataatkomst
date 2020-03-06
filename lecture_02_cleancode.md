@@ -24,7 +24,7 @@ Lunch 12:00 till 13:00
   - Landing card
 - 16:30 Slut på lektion
 
-## Lektionsteori
+# Lektionsteori
 
 Teorin inför denna lektion är det som finns i **Viktig kurslitteratur** eftersom det mesta innehåll till denna lektion primärt är teoretisk.
 

@@ -28,7 +28,7 @@ Lunch 12:00 till 13:00
 * 16:30 Slut på lektion
   * Landing card
 
-## Lektionsteori
+# Lektionsteori
 
 Teori, exemplar och quiz. Bör genomgås innan lektionen.
 
