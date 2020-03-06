@@ -49,5 +49,4 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
-* Microsoft: [Asynchronous programming with async and await](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/) 
-* Microsoft: [Task-based asynchronous pattern (TAP)](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
+* [What is Thread?](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)
