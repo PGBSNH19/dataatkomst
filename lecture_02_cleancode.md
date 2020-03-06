@@ -81,6 +81,7 @@ Martin Fowler in [Refactoring: Doing Design After the Program Runs](https://www.
 * [SOLID architecture principles using simple C# examples](https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp)
 * [SOLID Principle with C# Example](https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example)
 * [S.O.L.I.D: The First 5 Principles of Object Oriented Design](https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design#toc-single-responsibility-principle)
+* [Principles of Object-Oriented Design](http://www.cs.utsa.edu/~cs3443/notes/designPrinciples/designPrinciples.html)
 
 **Inversion of Control (IOC) och Dependency Injection (DI):**
 
