@@ -1,10 +1,12 @@
-# Trådning generellt
+# Trådning uppstart
 
 Måndag 9:e mars 2020
 
 ![Draft](/dataatkomst/assets/images/draft.png)
 
-Denna lektion bla bla
+Denna lektion kommer att vara första lektion med fokus på trådning i C# och .NET.
+
+Trådning är ett komplext ämnen, och vi kommer att återvända till detta målet är att kunna använda trådning när vi bygger C# applikationer som jobbar med databasen eller andra externa resurser. Men steg ett är att kunna jobba med trådar.
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:00
@@ -48,5 +50,5 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
-* bla 
-* bla
+* Microsoft: [Asynchronous programming with async and await](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/async/) 
+* Microsoft: [Task-based asynchronous pattern (TAP)](https://docs.microsoft.com/en-us/dotnet/standard/asynchronous-programming-patterns/task-based-asynchronous-pattern-tap)
