@@ -21,9 +21,9 @@ Denna lektion försätter vi med tårådning och titter på hur man kan mappa da
     - Förberedelse av presentation (10 min)
     - Presentation 2 min per grupp (20 min)
 
-  Lunch 12:00 till 13:00
+  Lunch 12:00 till 12:45 **OBS**
 
-  - 13:00 Programmeringsövning i grupp
+  - 12:45 Programmeringsövning i grupp
     - Finns i GitHub classroom
   - 16:00 Avslutning och frågor i klassen
     - Landing card
@@ -45,7 +45,8 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 * [C# - What is the difference between threads and tasks?](https://peterdaugaardrasmussen.com/2018/11/08/csharp-what-is-the-difference-between-threads-and-tasks/)
 * [Task-based asynchronous programming](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming)
-* Synchtonization
+* Joseph Albahari: Threading in C# - [Basic Synchronization](http://www.albahari.com/threading/part2.aspx)
+* Joydip Kanjilal: [My two cents on task continuation in .Net](https://www.infoworld.com/article/3171605/my-two-cents-on-task-continuation-in-net.html)
 * Signaling and thread concepts
 * Async / await
 
@@ -53,5 +54,5 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
 * Wikipedia: [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) 
-* 
+* Microsoft: [Chaining Tasks by Using Continuation Tasks](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks)
 
