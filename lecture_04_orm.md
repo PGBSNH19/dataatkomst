@@ -43,12 +43,11 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 **Trådning**
 
-* Tasks
+* [C# - What is the difference between threads and tasks?](https://peterdaugaardrasmussen.com/2018/11/08/csharp-what-is-the-difference-between-threads-and-tasks/)
+* [Task-based asynchronous programming](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming)
 * Synchtonization
 * Signaling and thread concepts
-* Task Parallel Library (TPL)
-* PLINQ
-* Task Asynchronous Pattern (TAP)
+* Async / await
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
