@@ -36,12 +36,23 @@ Teori, exemplar och övningar. Bör genomgås innan lektionen.
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.
 
+**ORM**
+
 * Youtube video: [Introduction to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
 * Mario Hoyos: [What is an ORM and Why You Should Use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a) - An introduction to Object-Relational-Mappers
+
+**Trådning**
+
+* Tasks
+* Synchtonization
+* Signaling and thread concepts
+* Task Parallel Library (TPL)
+* PLINQ
+* Task Asynchronous Pattern (TAP)
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
 * Wikipedia: [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) 
-* bla
+* 
 

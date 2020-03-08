@@ -27,8 +27,9 @@ Lunch 12:00 till 12:45 **OBS**
 
 - 14:15 Programmeringsövning i grupp, projekt 2
   - Kommer att finnas i GitHub classroom
-  - Mobprogramming med spion
-    - 15 min per driver, check-in och push till Github
+  - CRC cards med spion
+- 15:00 Mobprogramming med spion
+  - 15 min per driver, check-in och push till Github
 - 15:30 Avslutning och frågor i klassen
   - Landing card
 - 16:00 Slut på lektion
@@ -48,3 +49,4 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
 * [What is Thread?](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)
+* Jon Skeet: [When to use Threads](https://jonskeet.uk/csharp/threads/whentouse.html)
