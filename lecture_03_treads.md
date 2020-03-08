@@ -2,8 +2,6 @@
 
 Måndag 9:e mars 2020
 
-![Draft](/dataatkomst/assets/images/draft.png)
-
 Denna lektion kommer att vara första lektion med fokus på trådning i C# och .NET.
 
 Trådning är ett komplext ämnen, och vi kommer att återvända till detta målet är att kunna använda trådning när vi bygger C# applikationer som jobbar med databasen eller andra externa resurser. Men steg ett är att kunna jobba med trådar.
