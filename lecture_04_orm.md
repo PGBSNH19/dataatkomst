@@ -47,8 +47,7 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 * [Task-based asynchronous programming](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming)
 * Joseph Albahari: Threading in C# - [Basic Synchronization](http://www.albahari.com/threading/part2.aspx)
 * Joydip Kanjilal: [My two cents on task continuation in .Net](https://www.infoworld.com/article/3171605/my-two-cents-on-task-continuation-in-net.html)
-* Signaling and thread concepts
-* Async / await
+* Abhishek Singh: [Monitor And Lock In C#](https://www.c-sharpcorner.com/UploadFile/de41d6/monitor-and-lock-in-C-Sharp/)
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
