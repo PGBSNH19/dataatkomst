@@ -19,16 +19,12 @@ Lektion från kl. 8:30 till kl. 16:00
 
 Lunch 12:00 till 12:45 **OBS**
 
-* 12:45 Grupp diskussion av dagens ämnen
-  - Mindmap (20 min)
-  - Rotation av mindmaps 5 min per grupp (40 min)
-  - Förberedelse av presentation (8 min)
-  - Presentation 1 min per grupp (10 min)
+* 12:45 Programmeringsövning i grupp, projekt 2 - The Railway
+  * Kommer att finnas i GitHub classroom
 
-- 14:15 Programmeringsövning i grupp, projekt 2
-  - Kommer att finnas i GitHub classroom
-  - CRC cards med spion
-- 15:00 Mobprogramming med spion
+  * CRC cards med spion
+
+- 13:30 Mobprogramming med spion
   - 15 min per driver, check-in och push till Github
 - 15:30 Avslutning och frågor i klassen
   - Landing card

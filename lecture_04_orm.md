@@ -2,9 +2,7 @@
 
 Onsdag 11:e mars 2020
 
-![Draft](/dataatkomst/assets/images/draft.png)
-
-Denna lektion försätter vi med tårådning och titter på hur man kan mappa data mot objekter
+Denna lektion försätter vi med trådning och tittar på hur man kan mappa data mot objekt.
 
 ## Lektionsplan
 
@@ -13,7 +11,7 @@ Denna lektion försätter vi med tårådning och titter på hur man kan mappa da
   * 8:30 Uppsamling från förra lektion
     * Boarding card
   * 9:00 Introduktion av dagens ämnen
-    * Trådning
+    * Trådning försatt
     * Object-relational mapping (ORM)
   * 9:30 Grupp diskussion av dagens ämnen
     - Mindmaps (30 min)
@@ -41,7 +39,7 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 * Youtube video: [Introduction to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
 * Mario Hoyos: [What is an ORM and Why You Should Use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a) - An introduction to Object-Relational-Mappers
 
-**Trådning**
+**Trådning - Tasks**
 
 * [C# - What is the difference between threads and tasks?](https://peterdaugaardrasmussen.com/2018/11/08/csharp-what-is-the-difference-between-threads-and-tasks/)
 * [Task-based asynchronous programming](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/task-based-asynchronous-programming)
@@ -54,4 +52,7 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 
 * Wikipedia: [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) 
 * Microsoft: [Chaining Tasks by Using Continuation Tasks](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks)
+* Microsoft: [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.1)
+* Microsoft: [Unit Testing Asynchronous Code](https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/november/async-programming-unit-testing-asynchronous-code)
+* [Async tests with NSubstitute and XUnit in C#](http://www.garethrepton.com/Unit-Testing-async-methods/)
 
