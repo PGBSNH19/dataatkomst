@@ -8,7 +8,7 @@ Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 13|CRUD med Entiy Framework<br />2020-03-23<br />8:30 - 16:00||Migrations and deployment<br />2020-03-25<br />8:30 - 16:00||Unit testing with data<br />2020-03-27<br />8:30 - 16:00
 14|DBContext + Transactions<br />2020-03-30<br />8:30 - 16:00||Document database<br />2020-04-01<br />8:30 - 16:00||
 15|Performance + Optimering<br />2020-04-06<br />8:30 - 16:00||Röda tråd: Backend utveckling - Datatjänster<br />2020-04-08<br />8:30 - 16:00||
-16|  |                                       |Sammanfattning och frågor<br />2020-04-15<br />8:30 - 16:00||Skriftlig tentamen??<br />2020-04-17<br />9:00 - 11:00
+16|  |                                       |Sammanfattning och frågor<br />[Poster presentaion](poster_presentation.md)<br />2020-04-15<br />8:30 - 16:00||
 
 Länkarna i schemat leder till detaljerad information om enskilda lektioner och uppgifter.
 
@@ -20,6 +20,7 @@ Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
 
 # Projekt och deadlines
 N/A
+Poster presentaion, 2020-04-15
 
 # Kontakt
 * Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/)
