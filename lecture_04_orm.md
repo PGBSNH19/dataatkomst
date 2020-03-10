@@ -1,8 +1,10 @@
-# Object-relational mapping (ORM) och trådning
+# Object-relational mapping (ORM) och tasks
 
 Onsdag 11:e mars 2020
 
-Denna lektion försätter vi med trådning och tittar på hur man kan mappa data mot objekt.
+Denna lektion tittar vi på hur man kan mappa data mot objekt.
+
+Vi försätter även med trådning genom att titta på tasks.
 
 ## Lektionsplan
 
