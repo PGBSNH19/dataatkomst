@@ -56,6 +56,7 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 
 * Wikipedia: [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) 
 * Martin Fowler: [Data mapper pattern](https://martinfowler.com/eaaCatalog/dataMapper.html)
+* Martin Fowler: [Active record pattern](https://www.martinfowler.com/eaaCatalog/activeRecord.html)
 
 **Trådning - Tasks**
 
