@@ -1,8 +1,10 @@
-# Object-relational mapping (ORM) och trådning
+# Object-relational mapping (ORM) och tasks
 
 Onsdag 11:e mars 2020
 
-Denna lektion försätter vi med trådning och tittar på hur man kan mappa data mot objekt.
+Denna lektion tittar vi på hur man kan mappa data mot objekt.
+
+Vi försätter även med trådning genom att titta på tasks.
 
 ## Lektionsplan
 
@@ -34,7 +36,7 @@ Teori, exemplar och övningar. Bör genomgås innan lektionen.
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.
 
-**ORM**
+**Object-relational mapping **
 
 * Youtube video: [Introduction to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
 * Mario Hoyos: [What is an ORM and Why You Should Use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a) - An introduction to Object-Relational-Mappers
@@ -50,7 +52,14 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
+**Object-relational mapping**
+
 * Wikipedia: [Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping) 
+* Martin Fowler: [Data mapper pattern](https://martinfowler.com/eaaCatalog/dataMapper.html)
+* Martin Fowler: [Active record pattern](https://www.martinfowler.com/eaaCatalog/activeRecord.html)
+
+**Trådning - Tasks**
+
 * Microsoft: [Chaining Tasks by Using Continuation Tasks](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/chaining-tasks-by-using-continuation-tasks)
 * Microsoft: [ASP.NET Core Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.1)
 * Microsoft: [Unit Testing Asynchronous Code](https://docs.microsoft.com/en-us/archive/msdn-magazine/2014/november/async-programming-unit-testing-asynchronous-code)
