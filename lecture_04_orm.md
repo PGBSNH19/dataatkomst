@@ -15,16 +15,14 @@ Vi försätter även med trådning genom att titta på tasks.
   * 9:00 Introduktion av dagens ämnen
     * Trådning försatt
     * Object-relational mapping (ORM)
-  * 9:30 Grupp diskussion av dagens ämnen
-    - Mindmaps (30 min)
-    - Rotation av mindmaps 5 min per grupp (40 min)
-    - Förberedelse av presentation (10 min)
-    - Presentation 2 min per grupp (20 min)
-
+    * Demo av overloading
+  * 11:00 Programmeringsövning i grupp
+    - Finns i GitHub classroom
+  
   Lunch 12:00 till 12:45 **OBS**
 
   - 12:45 Programmeringsövning i grupp
-    - Finns i GitHub classroom
+  - Finns i GitHub classroom
   - 16:00 Avslutning och frågor i klassen
     - Landing card
   - 16:30 Slut på lektion
