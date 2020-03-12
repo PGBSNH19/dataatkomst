@@ -59,5 +59,6 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
 * Wikipedia: [Schema migration](https://en.wikipedia.org/wiki/Schema_migration)
-* [Async/Await - Best Practices in Asynchronous Programming](Async/Await - Best Practices in Asynchronous Programming)
+* Microsoft: [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 * Stephen Cleary: [Async and Await](https://blog.stephencleary.com/2012/02/async-and-await.html) and [Happy Birthday Async](https://blog.stephencleary.com/2017/09/happy-birthday-async.html)
+* Microsoft: [Asynchronous programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
