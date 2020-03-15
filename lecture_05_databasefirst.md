@@ -62,3 +62,7 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 * Microsoft: [Async/Await - Best Practices in Asynchronous Programming](https://docs.microsoft.com/en-us/archive/msdn-magazine/2013/march/async-await-best-practices-in-asynchronous-programming)
 * Stephen Cleary: [Async and Await](https://blog.stephencleary.com/2012/02/async-and-await.html) and [Happy Birthday Async](https://blog.stephencleary.com/2017/09/happy-birthday-async.html)
 * Microsoft: [Asynchronous programming](https://docs.microsoft.com/en-us/dotnet/csharp/async)
+* Getting Started with C#'s Async and Await Keywords, the following articles
+  * [Understanding Control Flow with Async and Await in C#](https://www.pluralsight.com/guides/understand-control-flow-async-await/)
+  * [Using Task.Run in Conjunction with Async/Await](https://www.pluralsight.com/guides/using-task-run-async-await)
+  * [Advanced Tips for Using Task.Run With Async/Await](https://www.pluralsight.com/guides/advanced-tips-using-task-run-async-wait)
