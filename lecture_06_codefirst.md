@@ -33,17 +33,19 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 
 Teori, exemplar och övningar. Bör genomgås innan lektionen.
-eg. tech.io
 
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.
 
-* https://docs.microsoft.com/en-us/ef/core/querying/related-data?wt.mc_id=personal-blog-chnoring
-* https://entityframeworkcore.com/approach-code-first
-* [PLINQ](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/parallel-linq-plinq)
+* [Database Migration: What It Is and How to Do It](https://rollout.io/blog/database-migration/)
+* [Code First](https://entityframeworkcore.com/approach-code-first)
+* [Data Annotations](https://entityframeworkcore.com/model-data-annotations)
+* [Explicit Values](https://entityframeworkcore.com/model-explicit-values)
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
-* bla 
-* bla
+* [Entity Framework Core Migrations](https://www.learnentityframeworkcore.com/migrations)
+* [Normalization in DBMS: 1NF, 2NF, 3NF and BCNF](https://hackr.io/blog/dbms-normalization)
+* [Inheritance](https://entityframeworkcore.com/model-inheritance)
+* Inheritance with EF Code First: [Part 1 – Table per Hierarch](https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-1-table-per-hierarchy-tph) and [Part 2 – Table per Type](https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-2-table-per-type-tpt)
