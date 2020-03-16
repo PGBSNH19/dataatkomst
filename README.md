@@ -23,15 +23,26 @@ Projekt 1: The Espresso API
 
 2020-03-05
 
+
+
 Projekt 2: The Railway
 
 2020-03-18
+
+
 
 Projekt 3: TBD
 
 2020-03-27
 
-Final projekt + Poster präsentaion: 2020-04-15
+
+
+Final projekt + Poster presentation: 2020-04-15
+
+# Kurs element
+
+* [Mob programming](mobprogramming.md)
+* [Mindmapping](mindmapping.md)
 
 # Kontakt
 * Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/)
