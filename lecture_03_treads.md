@@ -46,3 +46,6 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 
 * [What is Thread?](https://www.tutorialspoint.com/operating_system/os_multi_threading.htm)
 * Jon Skeet: [When to use Threads](https://jonskeet.uk/csharp/threads/whentouse.html)
+* [How To Stop a Thread in .NET (and Why Thread.Abort is Evil](http://www.interact-sw.co.uk/iangblog/2004/11/12/cancellation)
+* .NET Core does not support abort and suspend: [The case for Thread.Abort / Thread.Suspend](https://github.com/dotnet/runtime/issues/11369)
+* [Destroying threads](https://docs.microsoft.com/en-us/dotnet/standard/threading/destroying-threads)
