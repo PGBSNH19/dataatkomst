@@ -26,6 +26,7 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 * [PLINQ](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/parallel-linq-plinq)
 * [Loading Related Data](https://docs.microsoft.com/en-us/ef/core/querying/related-data?wt.mc_id=personal-blog-chnoring)
 * [Fluent API](https://entityframeworkcore.com/model-fluent-api)
+* Patterns
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.

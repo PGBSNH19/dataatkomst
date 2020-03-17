@@ -8,7 +8,7 @@ Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 13|CRUD med Entiy Framework<br />2020-03-23<br />8:30 - 16:30||Migrations and deployment<br />Avstämning<br />2020-03-25<br />8:30 - 16:30||Unit testing with data<br />Avstämning<br />2020-03-27<br />8:30 - 16:30
 14|DBContext + Transactions<br />2020-03-30<br />8:30 - 16:30||Document database<br />2020-04-01<br />8:30 - 16:30||
 15|Performance + Optimering<br />2020-04-06<br />8:30 - 16:30||Röda tråd: Backend utveckling - Datatjänster<br />2020-04-08<br />8:30 - 16:30||
-16|  |                                       |Sammanfattning och frågor<br />[Poster presentaion](poster_presentation.md)<br />2020-04-15<br />8:30 - 16:30||
+16|  |                                       |Sammanfattning och frågor<br />[Video presentaion](video_presentation.md)<br />2020-04-15<br />8:30 - 16:30||
 
 Länkarna i schemat leder till detaljerad information om enskilda lektioner och uppgifter.
 
@@ -19,33 +19,34 @@ Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
 * [Kursen](info_course.md)
 
 # Projekt och deadlines
-Projekt 1: The Espresso API
+Projekt 1: [The Espresso API](https://github.com/PGBSNH19/project-the-barista)
 
-2020-03-05
-
-
-
-Projekt 2: The Railway
-
-2020-03-18
+2020-03-09 at 09:15
 
 
 
-Projekt 3: TBD
+Projekt 2: [The Railway](https://github.com/PGBSNH19/project-the-train)
 
-2020-03-27
+2020-03-18 at 09:15
 
 
 
-Final projekt + Poster presentation: 2020-04-15
+Projekt 3: [The spaceport](https://github.com/PGBSNH19/project-the-spaceport)
+
+2020-03-30 at 09:00
+
+
+
+Final projekt + Video presentation: 2020-04-15
 
 # Kurs element
 
 * [Mob programming](mobprogramming.md)
 * [Mindmapping](mindmapping.md)
+* Distansundervisning från 2020-03-18 via Teams
 
 # Kontakt
-* Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/)
+* Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/) och på Teams
 * Frågor om utbildningen: Helén Olofsson, [PingPong](https://yh.pingpong.se/courseId/9766/), 031-700 83 19
 
 # Annan information
