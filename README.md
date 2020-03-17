@@ -19,25 +19,25 @@ Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
 * [Kursen](info_course.md)
 
 # Projekt och deadlines
-Projekt 1: [The Espresso API](https://github.com/PGBSNH19/project-the-barista)
+Projekt 1: [The Espresso API](https://github.com/PGBSNH19/project-the-barista), uppgift och repo ges från Github Classroom
 
 2020-03-09 at 09:15
 
 
 
-Projekt 2: [The Railway](https://github.com/PGBSNH19/project-the-train)
+Projekt 2: [The Railway](https://github.com/PGBSNH19/project-the-train), uppgift och repo ges från Github Classroom
 
 2020-03-18 at 09:15
 
 
 
-Projekt 3: [The spaceport](https://github.com/PGBSNH19/project-the-spaceport)
+Projekt 3: [The spaceport](https://github.com/PGBSNH19/project-the-spaceport), uppgift och repo ges från Github Classroom
 
 2020-03-30 at 09:00
 
 
 
-Final projekt + Video presentation: 2020-04-15
+Slutligt projekt + Video presentation: 2020-04-15
 
 # Kurs element
 
