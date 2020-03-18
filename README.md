@@ -44,6 +44,7 @@ Slutligt projekt + Video presentation: 2020-04-15
 * [Mob programming](mobprogramming.md)
 * [Mindmapping](mindmapping.md)
 * [Distansundervisning](remote.md) från 2020-03-18 via Teams
+* [Codereview / Pull requests](codereview.md)
 
 # Kontakt
 * Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/) och på Teams
