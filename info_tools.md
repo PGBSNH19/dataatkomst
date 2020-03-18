@@ -6,6 +6,10 @@
 
 - [.NET core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core/)
 
+## Markdown
+
+* [Typora](https://typora.io/)
+
 ## Integrated Development Environment (IDE)
 
 Det rekommenderas att ni har båda dissa verktyg
