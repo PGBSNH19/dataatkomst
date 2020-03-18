@@ -43,3 +43,4 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 * [Normalization in DBMS: 1NF, 2NF, 3NF and BCNF](https://hackr.io/blog/dbms-normalization)
 * [Inheritance](https://entityframeworkcore.com/model-inheritance)
 * Inheritance with EF Code First: [Part 1 – Table per Hierarch](https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-1-table-per-hierarchy-tph) and [Part 2 – Table per Type](https://weblogs.asp.net/manavi/inheritance-mapping-strategies-with-entity-framework-code-first-ctp5-part-2-table-per-type-tpt)
+* [What is DbContext](https://entityframework.net/what-is-dbcontext)

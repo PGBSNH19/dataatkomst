@@ -43,8 +43,8 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 * [Database Migration: What It Is and How to Do It](https://rollout.io/blog/database-migration/)
 * [What is Entity Framework Core?](https://www.learnentityframeworkcore.com/#what-is-entity-framework-core)
-
 * [Code-First vs Model-First vs Database-First: Pros and Cons](https://www.ryadel.com/en/code-first-model-first-database-first-vs-comparison-orm-asp-net-core-entity-framework-ef-data/)
+* [Database First](https://entityframeworkcore.com/approach-database-first)
 * [Generating a model from an existing database](https://www.learnentityframeworkcore.com/walkthroughs/existing-database), om du vill testa detta använd en egen databas från tidigare kurs eller [Adventure Works](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works) (jag rekommendera att starta med en enkel databas)
 
 **Trådning, async och await**
