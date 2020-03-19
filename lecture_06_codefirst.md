@@ -4,15 +4,15 @@ Onsdag 18:e mars 2020
 
 Fokus på denna lektion är primärt den typ av migration som heter code-first.
 
-## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:00
+## Lektionsplan (distans)
+Lektion från kl. 8:30 till kl. 16:30
 
 * 8:30 Uppsamling från förra lektion
   * Boarding card, PM på teams till Stephan
 * 9:15 Presentationer av The Railway
   * 5 min per grupp (8 grupper), 40 min
 * 10:15 Code review av The Railway
-* 11:30 Introduktion av dagens ämnen, database first
+* 11:30 Introduktion av dagens ämnen, code first
 
 Lunch 12:00 till 13:00
 

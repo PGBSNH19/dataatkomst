@@ -7,7 +7,7 @@ Tisdag 3:e mars 2020
 Denna lektion bla bla
 
 ## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:00
+Lektion från kl. 8:30 till kl. 16:30
 
 * x
 
@@ -18,7 +18,6 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 
 Teori, exemplar och övningar. Bör genomgås innan lektionen.
-eg. tech.io
 
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.

@@ -7,7 +7,7 @@ Tisdag 3:e mars 2020
 Denna lektion bla bla
 
 ## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:00
+Lektion från kl. 8:30 till kl. 16:30
 
 * x
 
