@@ -24,8 +24,9 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 * https://entityframework.net/what-is-dbcontext
 * https://docs.microsoft.com/en-us/ef/core/miscellaneous/configuring-dbcontext
-* https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext?view=efcore-3.1
 * 
+* https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext?view=efcore-3.1
+* https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
