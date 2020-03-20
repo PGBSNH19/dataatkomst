@@ -5,12 +5,12 @@ Måndag 23:e mars 2020
 Denna lektion handlar om hur vi kan hämta data ut en databas med Entiy Framework.
 
 ## Lektionsplan (distans)
-* Lektion från kl. 8:30 till kl. 16:30 på Teams
+Lektion från kl. 8:30 till kl. 16:30 på Teams
 
-  * 8:30 Uppsamling från förra lektion
-    * Boarding card, PM på teams till Stephan
-  * 9:00 Introduktion av dagens ämnen, CRUD med entiy framework
-  * 9:30 Online grupp övning... TBA
+* 8:30 Uppsamling från förra lektion
+  * Boarding card, PM på teams till Stephan
+* 9:00 Introduktion av dagens ämnen, CRUD med entiy framework
+* 9:30 Online grupp övning... TBA
 
 Lunch 12:00 till 13:00
 
