@@ -17,10 +17,8 @@ Lunch 12:00 till 13:00
 * 13:00 Mob programming, The Spaceport
   * 15 min per driver, check-in och push till Github
   * Inlagda code reviews
-
-
-  - 16:30 Slut på lektion
-    - Landing card, PM på teams till Stephan
+* 16:30 Slut på lektion
+	* Landing card, PM på teams till Stephan
 
 # Lektionsteori
 
