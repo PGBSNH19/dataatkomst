@@ -12,11 +12,11 @@ Denna lektion handlar om hur vi kan hämta data ut en databas med Entiy Framewor
   * 9:00 Introduktion av dagens ämnen, CRUD med entiy framework
   * 9:30 Online grupp övning... TBA
 
-  Lunch 12:00 till 13:00
+Lunch 12:00 till 13:00
 
-  * 13:00 Mob programming, The Spaceport
-    * 15 min per driver, check-in och push till Github
-    * Inlagda code reviews
+* 13:00 Mob programming, The Spaceport
+  * 15 min per driver, check-in och push till Github
+  * Inlagda code reviews
 
 
   - 16:30 Slut på lektion
