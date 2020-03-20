@@ -2,7 +2,7 @@
 
 Måndag 23:e mars 2020
 
-Denna lektion handlar om hur vi kan hämta data ut en databas med Entiy Framework.
+Denna lektion handlar om hur vi kan jobba med data i en databas med Entiy Framework.
 
 ## Lektionsplan (distans)
 Lektion från kl. 8:30 till kl. 16:30 på Teams
