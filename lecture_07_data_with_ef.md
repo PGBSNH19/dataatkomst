@@ -33,6 +33,8 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 * [The Entity Framework Core DbContext](https://www.learnentityframeworkcore.com/dbcontext)
 * [Querying data via the DbSet](https://www.learnentityframeworkcore.com/dbset/querying-data)
 * [Configuration in a .NET Core Console Application](article_configuration.md)
+* [Saving data](https://www.entityframeworktutorial.net/crud-operation-in-connected-scenario-entity-framework.aspx) in the database
+* [When to use C# LINQ with Query Syntax over Method Syntax](https://michaelscodingspot.com/when-to-use-c-linq-with-query-syntax-over-method-syntax/)
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
@@ -40,4 +42,3 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 * [PLINQ](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/parallel-linq-plinq)
 * [Loading Related Data](https://docs.microsoft.com/en-us/ef/core/querying/related-data?wt.mc_id=personal-blog-chnoring)
 * [Fluent API](https://entityframeworkcore.com/model-fluent-api)
-* 
