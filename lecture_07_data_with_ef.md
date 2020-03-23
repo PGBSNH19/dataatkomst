@@ -9,7 +9,7 @@ Lektion från kl. 8:30 till kl. 16:30 på Teams
 
 * 8:30 Uppsamling från förra lektion
   * Boarding card, PM på teams till Stephan
-* 9:00 Introduktion av dagens ämnen, CRUD med entiy framework
+* 9:00 Introduktion av dagens ämnen, dataåtkomst med entiy framework
 * 9:30 Online grupp övning... TBA
 
 Lunch 12:00 till 13:00
