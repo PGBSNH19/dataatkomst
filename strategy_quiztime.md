@@ -6,17 +6,49 @@ Create an account at: [Kahoot!](https://kahoot.com)
 
 Create a new quiz in Kahoot and add the questions in Kahoot.
 
-## Topic: Entity Framework
+## Topic: Midway quiz
 
-LINQ
+Alla element som vi har haft tills vidre!
 
-Fluent API
+- Fluent API
 
-Databases
+- OOP
 
-Code first
+  - Abstractions
+  - Coupling and cohesion
 
-## Quiz time, 11:00
+- Lambda
+
+- Reflection
+
+- Naming
+
+- Unitetsting
+
+- Attributes
+
+- SOLID
+
+- Tråder
+
+- Task
+
+- ORM
+
+- Databas first
+
+- DbContext
+
+- LINQ
+
+- Fluent API
+
+- Databases
+
+- Code first
+
+- ## Quiz time, 11:00
+
 
 On in the group hosts the quiz
 
