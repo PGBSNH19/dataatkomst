@@ -41,4 +41,5 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 * Microsoft: [Asynchronous Queries](https://docs.microsoft.com/en-us/ef/core/querying/async) in EF
   * Microsoft: [PLINQ](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/parallel-linq-plinq)
 * Microsoft: [Loading Related Data](https://docs.microsoft.com/en-us/ef/core/querying/related-data?wt.mc_id=personal-blog-chnoring)
-* [Fluent API](https://entityframeworkcore.com/model-fluent-api)
+* EF core [Fluent API](https://entityframeworkcore.com/model-fluent-api)
+* Microsoft: [ConfigurationBuilder Class](https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.configurationbuilder?view=dotnet-plat-ext-3.1)

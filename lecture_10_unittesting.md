@@ -31,5 +31,5 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
-* bla 
+* [On the dark art of software estimation](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/)
 * bla
