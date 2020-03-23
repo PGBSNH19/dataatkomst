@@ -8,7 +8,7 @@ Create a new quiz in Kahoot and add the questions in Kahoot.
 
 ## Topic: Midway quiz
 
-Alla element som vi har haft tills vidre!
+Create questions within **all elements** which we had been through so far! (also questions from previous courses are allowed)
 
 - Fluent API
 
@@ -23,19 +23,19 @@ Alla element som vi har haft tills vidre!
 
 - Naming
 
-- Unitetsting
+- Unittesting
 
 - Attributes
 
 - SOLID
 
-- Tråder
+- Threads
 
 - Task
 
 - ORM
 
-- Databas first
+- Database first
 
 - DbContext
 
@@ -47,7 +47,8 @@ Alla element som vi har haft tills vidre!
 
 - Code first
 
-- ## Quiz time, 11:00
+
+## Quiz time, 11:15 at teams
 
 
 On in the group hosts the quiz
