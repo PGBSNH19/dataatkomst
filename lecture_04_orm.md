@@ -8,24 +8,24 @@ Vi försätter även med trådning genom att titta på tasks.
 
 ## Lektionsplan
 
-* Lektion från kl. 8:30 till kl. 16:30
+Lektion från kl. 8:30 till kl. 16:30
 
-  * 8:30 Uppsamling från förra lektion
-    * Boarding card
-  * 9:00 Introduktion av dagens ämnen
-    * Trådning försatt
-    * Object-relational mapping (ORM)
-    * Demo av overloading
-  * 11:00 Programmeringsövning i grupp
-    - Finns i GitHub classroom
+* 8:30 Uppsamling från förra lektion
+	* Boarding card
+* 9:00 Introduktion av dagens ämnen
+	* Trådning försatt
+	* Object-relational mapping (ORM)
+	* Demo av overloading
+* 11:00 Programmeringsövning i grupp
+	* Finns i GitHub classroom
   
-  Lunch 12:00 till 12:45 **OBS**
+Lunch 12:00 till 12:45 **OBS**
 
-  - 12:45 Programmeringsövning i grupp
-  - Finns i GitHub classroom
-  - 16:00 Avslutning och frågor i klassen
-    - Landing card
-  - 16:30 Slut på lektion
+* 12:45 Programmeringsövning i grupp
+	* Finns i GitHub classroom
+* 16:00 Avslutning och frågor i klassen
+	* Landing card
+* 16:30 Slut på lektion
 
 # Lektionsteori
 

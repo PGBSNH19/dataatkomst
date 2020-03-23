@@ -23,7 +23,7 @@ Create questions within **all elements** which we had been through so far! (also
 
 - Naming
 
-- Unittesting
+- Unit testing
 
 - Attributes
 
@@ -48,13 +48,26 @@ Create questions within **all elements** which we had been through so far! (also
 - Code first
 
 
-## Quiz time, 13:00 at teams
+## Quiz time, 13:00 at Teams
 
+One in the group hosts the quiz.
 
-On in the group hosts the quiz
+**IMPORTANT** Use your user Github username as name in the quiz, eg: `skjohansen` as you points will be used in the individual points!
 
 After quiz give points to the other groups, look for
 
 - Difficulty (too easy is bad :), try to find a sweet spot )
 - Originality
 - Key topics
+
+Post the points in a PM to Stephan in Discord, on the format: ```[YOUR TEAM NUMBER];[NUMBER OF TEAM GETTING VOTE];[VOTE]```
+
+Example:
+
+You are part of team 9 and are about to vote for team 10, you which to give the vote 3. In that case you send the following PM: ```9;10;3```
+
+## After the quiz
+
+Log into Kahoot, click on Reports in the top. Klick on download to get the results as a xlsx file.
+
+Send Stephan the results on email.
