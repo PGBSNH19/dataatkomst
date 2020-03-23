@@ -41,8 +41,8 @@ Slutligt projekt + Video presentation: 2020-04-15
 
 # Kurs element
 
-* [Mob programming](mobprogramming.md)
-* [Mindmapping](mindmapping.md)
+* [Mob programming](strategy_mobprogramming.md)
+* [Mindmapping](strategy_mindmapping.md)
 * [Distansundervisning](remote.md) från 2020-03-18 via Teams
 * [Codereview / Pull requests](codereview.md)
 
