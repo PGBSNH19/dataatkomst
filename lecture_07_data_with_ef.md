@@ -10,7 +10,7 @@ Lektion från kl. 8:30 till kl. 16:30 på Teams
 * 8:30 Uppsamling från förra lektion
   * Boarding card, PM på teams till Stephan
 * 9:00 Introduktion av dagens ämnen, dataåtkomst med entiy framework
-* 9:30 Online grupp övning... TBA
+* 9:30 [Quiz time](strategy_quiztime.md)
 
 Lunch 12:00 till 13:00
 
@@ -42,4 +42,6 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
   * Microsoft: [PLINQ](https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/parallel-linq-plinq)
 * Microsoft: [Loading Related Data](https://docs.microsoft.com/en-us/ef/core/querying/related-data?wt.mc_id=personal-blog-chnoring)
 * EF core [Fluent API](https://entityframeworkcore.com/model-fluent-api)
-* Microsoft: [ConfigurationBuilder Class](https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.configurationbuilder?view=dotnet-plat-ext-3.1)
+* Configuration
+  * Microsoft: [ConfigurationBuilder Class](https://docs.microsoft.com/en-us/dotnet/api/microsoft.extensions.configuration.configurationbuilder?view=dotnet-plat-ext-3.1)
+  * [Application Settings ](https://docs.microsoft.com/en-us/iis-administration/configuration/appsettings.json)
