@@ -50,7 +50,7 @@ Create questions within **all elements** which we had been through so far! (also
 
 ## Quiz time, 13:00 at Teams
 
-One in the group hosts the quiz.
+One in the group hosts the quiz. And this person needs to share his/her screen, as the participants only see the answer alternatives.
 
 **IMPORTANT** Use your user Github username as name in the quiz, eg: `skjohansen` as you points will be used in the individual points!
 
