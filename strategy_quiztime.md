@@ -48,7 +48,7 @@ Create questions within **all elements** which we had been through so far! (also
 - Code first
 
 
-## Quiz time, 11:15 at teams
+## Quiz time, 13:00 at teams
 
 
 On in the group hosts the quiz
