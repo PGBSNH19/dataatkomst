@@ -18,7 +18,7 @@ Lunch 12:00 till 13:00
 * 13:00 Mob programming, The Spaceport
   * 15 min per driver, check-in och push till Github
   * Inlagda code reviews
-* Indviduell avstämning
+* [Indviduell avstämning](feedback.md)
   * Inbjudan via teams
   * 5 min per person
 * 16:30 Slut på lektion
