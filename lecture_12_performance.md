@@ -1,10 +1,10 @@
-# Titel på lektion
+# Performance och optimering
 
-Tisdag 3:e mars 2020
+Måndag den 6:e april 2020
 
-![Draft](/assets/images/draft.png)
+![Draft](assets/images/draft.png)
 
-Denna lektion TBD
+Denna lektion handlar om hur man kan optimera en databas med Entity Framework
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30

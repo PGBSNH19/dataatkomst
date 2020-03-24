@@ -18,6 +18,9 @@ Lunch 12:00 till 13:00
 * 13:00 Mob programming, The Spaceport
   * 15 min per driver, check-in och push till Github
   * Inlagda code reviews
+* Indviduell avstämning
+  * Inbjudan via teams
+  * 5 min per person
 * 16:30 Slut på lektion
   * Landing card, PM på teams till Stephan
 
@@ -39,4 +42,4 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
 * [Deep Dive into EF Core HasData Seeding](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/august/data-points-deep-dive-into-ef-core-hasdata-seeding)
-* https://www.red-gate.com/simple-talk/dotnet/net-framework/deploying-an-entity-framework-database-into-production/
+* [Deploying an Entity Framework Database into Production](https://www.red-gate.com/simple-talk/dotnet/net-framework/deploying-an-entity-framework-database-into-production/)
