@@ -13,7 +13,7 @@ Lektion från kl. 8:30 till kl. 16:30
 
 Lunch 12:00 till 13:00
 
-* x
+* Projekt
 
 # Lektionsteori
 

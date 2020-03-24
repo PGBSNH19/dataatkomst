@@ -2,7 +2,7 @@
 
 Onsdag den 1:e april 2020
 
-![Draft](/dataatkomst/assets/images/draft.png)
+![Draft](assets/images/draft.png)
 
 Denna lektion handlar om hur vi kan tillgå en dokument databas med EF och hur vi kan kombinera dokument databaser och relationelle databaser.
 
@@ -13,7 +13,7 @@ Lektion från kl. 8:30 till kl. 16:30
 
 Lunch 12:00 till 13:00
 
-* x
+* Projekt
 
 # Lektionsteori
 

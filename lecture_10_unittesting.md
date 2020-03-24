@@ -1,6 +1,6 @@
 # Unit testing with data
 
-Tisdag 3:e mars 2020
+Måndag 30:e mars 2020
 
 ![Draft](/dataatkomst/assets/images/draft.png)
 
@@ -10,11 +10,22 @@ Denna lektion handlar om hur vi kan och bör testa vår applikation som använde
 
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* 8:30 Uppsamling från förra lektion    
+  - Boarding card, PM på teams till Stephan
+* 9:15 Presentationer av The SpacePort
+  - 5 min per grupp (8 grupper), 40 min
+* 10:15 Code review av The SpacePort
+* 11:30 Introduktion av dagens ämnen, unit testing
 
 Lunch 12:00 till 13:00
 
-* x
+* 13:00 Programmeringsövning i grupp, slut projekt
+  * Kommer att finnas i GitHub classroom
+
+
+- 13:45 Mobprogramming
+  - 15 min per driver, check-in och push till Github
+- 16:30 Slut på lektion
 
 # Lektionsteori
 
