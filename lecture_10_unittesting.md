@@ -56,4 +56,14 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 
 * [On the dark art of software estimation](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/)
 
+* ```cs
+  ServiceCollection
+  ```
+
+* https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/
+
+  * https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1
+
   
+
+* 
