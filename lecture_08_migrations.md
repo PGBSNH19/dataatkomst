@@ -1,6 +1,6 @@
 # Migrations and deployment
 
-Tisdag 22:e mars 2020
+Onsdag 25:e mars 2020
 
 Denna lektion går mer i detalj med hur man kan jobba med migrations och deploya sin databas med Entity Framework core
 

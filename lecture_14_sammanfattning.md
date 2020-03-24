@@ -1,6 +1,6 @@
 # Sammanfattning
 
-Tisdag 3:e mars 2020
+Onsdagen den 15:e april 2020
 
 ![Draft](assets/images/draft.png)
 

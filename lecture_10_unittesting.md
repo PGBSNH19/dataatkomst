@@ -1,8 +1,8 @@
 # Unit testing with data
 
-Måndag 30:e mars 2020
+Måndag den 30:e mars 2020
 
-![Draft](/dataatkomst/assets/images/draft.png)
+![Draft](assets/images/draft.png)
 
 Denna lektion handlar om hur vi kan och bör testa vår applikation som använder Entity Framework (och externa resurser över lag).
 
