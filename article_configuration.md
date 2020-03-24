@@ -4,6 +4,8 @@ For .NET is a range of packages which makes it easy to work with configuration f
 
 All examples is made for a .NET Core Console Application, and covers a connection string.
 
+A walkthrough is available on Youtube: [.NET Core config file](https://www.youtube.com/watch?v=Z2MpmAIt7_g) and the code is for the walkthrough is available on GitHub : [dot-net-core-configuration-demo](https://github.com/PGBSNH19/dot-net-core-configuration-demo)
+
 ## A simple connection string config
 
 In the console application add a json file to the project, you can call it *appsettings.json*. Set the properties of the file so that it's copied to output directory.
