@@ -44,3 +44,4 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 
 * [Deep Dive into EF Core HasData Seeding](https://docs.microsoft.com/en-us/archive/msdn-magazine/2018/august/data-points-deep-dive-into-ef-core-hasdata-seeding)
 * [Deploying an Entity Framework Database into Production](https://www.red-gate.com/simple-talk/dotnet/net-framework/deploying-an-entity-framework-database-into-production/)
+* [DbUp](https://dbup.github.io/)
