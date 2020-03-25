@@ -10,14 +10,15 @@ Lektion från kl. 8:30 till kl. 16:30 på Teams
 * 8:30 Uppsamling från förra lektion, dataåtkomst med entiy framework
   * Boarding card, PM på teams till Stephan
 * 9:00 Introduktion av dagens ämnen, Migrations and deployment
-
-* 9:30 Online grupp övning... TBA
+* 9:30 Förbered kod för code review i grupp
+* 10:15 Eksterent code review av The Spaceport
+  * Resultat av detta ska bli blir två pull request som skall merges in i master (gärna under dagen)
+* 11:30 Mob programming, The Spaceport
 
 Lunch 12:00 till 13:00
 
 * 13:00 Mob programming, The Spaceport
   * 15 min per driver, check-in och push till Github
-  * Inlagda code reviews
 * [Indviduell avstämning](feedback.md)
   * Inbjudan via teams
   * 5 min per person
