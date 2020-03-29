@@ -2,8 +2,6 @@
 
 Måndag den 30:e mars 2020
 
-![Draft](assets/images/draft.png)
-
 Denna lektion handlar om hur vi kan och bör testa vår applikation som använder Entity Framework (och externa resurser över lag).
 
 ## Lektionsplan
@@ -41,6 +39,10 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 * [Unit Tests with Dependency Injection](https://agostini.tech/2017/04/24/unit-tests-with-dependency-injection/)
   * [Fundamentals of Unit Testing: Understand Mock Object in Unit Testing](https://www.c-sharpcorner.com/UploadFile/dacca2/fundamental-of-unit-testing-understand-mock-object-in-unit/)
 
+Mocking and fakes
+
+* [Mocking DbContext and DbSet with Moq](https://www.jankowskimichal.pl/en/2016/01/mocking-dbcontext-and-dbset-with-moq/)
+
 **OBS!** Entity Framework gir möjlighet till att simulera en databas i minnet, smidigt, men att kalla detta unit test är i mina ögon fel, mer rätt skulle integration test vara, och man får vara försiktig med detta, i alla fall försiktig med att kalla det unit test. Eftersom vi aldrig kan veta om databasen i minnet beter sig på precis samma sätt som produktions databasen.
 
 * [Testing components using EF Core](https://docs.microsoft.com/en-us/ef/core/miscellaneous/testing/)
@@ -48,20 +50,15 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
   * [Unit Testing With Entity Framework and Entity Framework Core 2.1](https://dev.to/pcmichaels/unit-testing-with-entity-framework-and-entity-framework-core-2-1-1j2)
   * [Unit testing in ASP.NET Core with EF Sqlite in-memory and XUnit](https://raaaimund.github.io/tech/2019/05/07/aspnet-core-unit-testing-inmemory/)
 
-Mocking
-
-* https://www.jankowskimichal.pl/en/2016/01/mocking-dbcontext-and-dbset-with-moq/
-
 ## Bakgrunds litteratur
 
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
 * [Evil Unit Testing](https://coderanch.com/wiki/718795/Unit-Testing)
-
-  * [Why unit tests should not use database?](https://stackoverflow.com/questions/15450957/why-unit-tests-should-not-use-database)
+* [Why unit tests should not use database?](https://stackoverflow.com/questions/15450957/why-unit-tests-should-not-use-database)
 * [On the dark art of software estimation](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/)
 
-Host Builder
+**Host Builder**, the Microsoft way to work with Configuration, Servies and Logging
 
 * [Generic Host Builder in ASP .NET Core 3.1](https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/)
 * [.NET Generic Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1)
