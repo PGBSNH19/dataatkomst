@@ -31,5 +31,4 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
 
-* TBD 
 * TBD

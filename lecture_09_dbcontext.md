@@ -12,7 +12,7 @@ Lektion från kl. 8:30 till kl. 16:30
   * Boarding card, PM på teams till Stephan
 * 9:00 Introduktion av dagens ämnen, DBContext and Transactions
 
-* 9:30 Online grupp övning... TBA
+* 9:30 Mob programming, The Spaceport
 
 Lunch 12:00 till 13:00
 
@@ -39,6 +39,7 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 * [Configuring a DbContext](https://docs.microsoft.com/en-us/ef/core/miscellaneous/configuring-dbcontext)
 * [DBMS - Transaction](https://www.tutorialspoint.com/dbms/dbms_transaction.htm)
   * Martin Fowler: [Unit of Work](https://www.martinfowler.com/eaaCatalog/unitOfWork.html)
+  * [Using Transactions](https://docs.microsoft.com/en-us/ef/core/saving/transactions)
 
 ## Bakgrunds litteratur
 
@@ -47,3 +48,5 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 * [DbContext Class](https://docs.microsoft.com/en-us/dotnet/api/microsoft.entityframeworkcore.dbcontext?view=efcore-3.1)
 * [Database Providers](https://docs.microsoft.com/en-us/ef/core/providers/?tabs=dotnet-core-cli)
 * [Code First Multiple DB Context Migration](https://blog.tekspace.io/code-first-multiple-db-context-migration/)
+* [You’re All Doing Entity Framework Wrong](https://medium.com/@hoagsie/youre-all-doing-entity-framework-wrong-ea0c40e20502)
+

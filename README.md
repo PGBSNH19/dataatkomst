@@ -37,9 +37,11 @@ Deadline: 2020-03-18 at 09:15
 
 Deadline: 2020-03-30 at 09:00
 
-## Slutligt projekt
+## Projekt 4 - Slutligt projekt
 
-Förbered en video presentation
+[The ludo game](project4.md), uppgift och repo ges från Github Classroom
+
+Förbered en [video presentation](video_presentaion.md)
 
 Deadline för videopresentation: 2020-04-13 at 23:55
 
