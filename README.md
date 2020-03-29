@@ -55,7 +55,7 @@ Deadline för kod: 2020-04-14 at 23:55
 * [Codereview / Pull requests](codereview.md)
 
 # Kontakt
-* Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/) och på Teams
+* Frågor om kursen: Stephan Johansen, [PingPong](https://yh.pingpong.se/courseId/9766/) och på Discord
 * Frågor om utbildningen: Helén Olofsson, [PingPong](https://yh.pingpong.se/courseId/9766/), 031-700 83 19
 
 # Annan information
