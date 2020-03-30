@@ -10,7 +10,7 @@ Spelet ska spara i en databas (med code first och Entity Framework), så att det
 
 # Programmering
 
-Kod ska ligga i mappen **src**, varje team får enbart ha en kodbas!!
+Kod ska ligga i mappen **Source**, varje team får enbart ha en kodbas!!
 
 Se till att skåpa unit tests för spelet.
 
@@ -41,7 +41,7 @@ Ni kan göra så många branches baserat på *master* som ni önskar. När proje
 ## Element i bedömning
 
 * Process (**viktigt**), hur har ni kommat fram till det slutliga resultat
-* En (och endast en) Visual Studio solution placerat i mappen Src
+* En (och endast en) Visual Studio solution placerat i mappen Source
 * Solutionen ska beså av minst två projekt:
   * En .NET Core console-application
   * Class Library med en game engine
