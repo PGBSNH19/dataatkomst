@@ -7,9 +7,9 @@ Denna lektion handlar om hur vi kan tillgå en dokument databas med EF och hur v
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* 8:30 Uppsamling från förra lektion    
-  - Boarding card, PM på teams till Stephan
-* 09:00 Introduktion av dagens ämnen, unit testing
+* 8:30 Uppsamling från förra lektion, unit test   
+  - Boarding card, PM på Discord till Stephan
+* 09:00 Introduktion av dagens ämnen, document databases
 * 09:30 Code review 1 av The Ludo Game
 * 10:30 Mobprogramming, The Ludo Game
 

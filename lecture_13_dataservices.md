@@ -10,13 +10,15 @@ Denna lektion handlar om hur vi kan skåpa datatjänster som kommer åt vår dat
 Lektion från kl. 8:30 till kl. 16:30
 
 * 8:30 Uppsamling från förra lektion    
-  - Boarding card, PM på teams till Stephan
+  - Boarding card, PM på Discord till Stephan
 * 9:00 Introduktion av dagens ämnen, datatjänster
 * 9:30 [Quiz time](https://pgbsnh19.github.io/dataatkomst/strategy_quiztime.html)
+* Code review, 3
 
 Lunch 12:00 till 13:00
 
-* Projekt
+* 13:00 Mobprogramming, The Ludo Game
+* 16:30 Slut på lektion
 
 # Lektionsteori
 
@@ -25,8 +27,10 @@ Teori, exemplar och övningar. Bör genomgås innan lektionen.
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.
 
-* TBA
-* TBA
+* [What Is GraphQL?](https://www.youtube.com/watch?v=VjXb3PRL9WI)
+* [Entity GraphQL](https://github.com/lukemurray/EntityGraphQL)
+* https://grpc.io/
+* https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.1
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
