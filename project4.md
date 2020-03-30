@@ -67,6 +67,7 @@ Dom fyra element som är markerat med **viktigt** är så klart dom som är vikt
 * Dokument databas
 * Prestanda optimering
 * Datatjänst
+* AI spelare (så att man spela mot datorn) 
 * **MORE TO COME, kom med förslag**
 
 # Tips
