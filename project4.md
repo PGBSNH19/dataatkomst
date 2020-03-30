@@ -49,6 +49,7 @@ Ni kan göra så många branches baserat på *master* som ni önskar. När proje
 * All logik som rör spelet, även kast av tärning, är placerat i spelmotorn
 * Dokumentation av hur spelets element, klasser och funktionalitet (**viktigt**)
   * Ska finnas i Documentation-mappen
+  * Dokumentationen måste uppdateras löpande
 * Spelet ska spara i en databas (med code first och Entity Framework) (**viktigt**)
 * Det ska gå att skåpa ett eller fler spel
 * Det ska gå att försätta spela ett inte avslutat eksisterende spel
