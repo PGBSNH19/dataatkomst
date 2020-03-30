@@ -34,6 +34,7 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 ### Kod best practice
 * [5 Tips for Junior C# Developers to Write Cleaner C# Code](https://programmingwithmosh.com/csharp/5-tips-for-junior-c-developers-to-write-cleaner-c-code/)
 * Video (54 min): [Clean Code, Episode 1](https://cleancoders.com/episode/clean-code-episode-1/show)
+* [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 * [The Boy Scout Rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385), se bakgrunds litteratur som innehåller hela denna artikelserie
 * [Architectural principles](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
 

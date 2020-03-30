@@ -35,12 +35,15 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 * [The different types of software testing](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
 * [Unit Tests For Every Bug Fix](http://iedaddy.com/2016/11/unit-tests-every-bug-fix/)
-* [Dependency Inversion Principle](https://deviq.com/dependency-inversion-principle/) - Depend on abstractions, not concretions
-* [Unit Tests with Dependency Injection](https://agostini.tech/2017/04/24/unit-tests-with-dependency-injection/)
-  * [Fundamentals of Unit Testing: Understand Mock Object in Unit Testing](https://www.c-sharpcorner.com/UploadFile/dacca2/fundamental-of-unit-testing-understand-mock-object-in-unit/)
+* [7 Popular Unit Test Naming Conventions](https://dzone.com/articles/7-popular-unit-test-naming)
+* [Unit Tests, How to Write Testable Code and Why it Matters](https://www.toptal.com/qa/how-to-write-testable-code-and-why-it-matters)
+* Unit Test Patterns for .NET: [Part 1](https://www.typemock.com/unit-test-patterns-for-net/), [Part 2 : The Isolation Pattern](https://www.typemock.com/unit-test-patterns-part-ii)
 
 Mocking and fakes
 
+* [Dependency Inversion Principle](https://deviq.com/dependency-inversion-principle/) - Depend on abstractions, not concretions
+* [The anatomy of robust unit testing (with examples in C#)](https://raygun.com/blog/unit-testing-examples-and-anatomy/)
+* [Fundamentals of Unit Testing: Understand Mock Object in Unit Testing](https://www.c-sharpcorner.com/UploadFile/dacca2/fundamental-of-unit-testing-understand-mock-object-in-unit/)
 * [Mocking DbContext and DbSet with Moq](https://www.jankowskimichal.pl/en/2016/01/mocking-dbcontext-and-dbset-with-moq/)
 
 **OBS!** Entity Framework gir möjlighet till att simulera en databas i minnet, smidigt, men att kalla detta unit test är i mina ögon fel, mer rätt skulle integration test vara, och man får vara försiktig med detta, i alla fall försiktig med att kalla det unit test. Eftersom vi aldrig kan veta om databasen i minnet beter sig på precis samma sätt som produktions databasen.
@@ -57,6 +60,7 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 * [Evil Unit Testing](https://coderanch.com/wiki/718795/Unit-Testing)
 * [Why unit tests should not use database?](https://stackoverflow.com/questions/15450957/why-unit-tests-should-not-use-database)
 * [On the dark art of software estimation](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/)
+* [Testing your C# code with xUnit](https://www.codemotion.com/magazine/dev-hub/backend-dev/testing-your-c-code-with-xunit/)
 
 **Host Builder**, the Microsoft way to work with Configuration, Servies and Logging
 
