@@ -71,4 +71,4 @@ Tänka inte grafisk när ni gör eran datamodell!
 
 Där er <u>ingen krav</u> på verken Async eller fluent api, det viktigaste är att data sparas i en databas, att koden är testat med automatiserade test och att koden är lätt läst.
 
-Gör en dagbok (journal / log) varje dag, också om ni gör något själv på en kväll, så att ni har koll på processen, och kan dokumentera den.
+Gör en dagbok (journal / log) varje dag, också om ni gör något själv på en kväll, så att ni har koll på processen, och kan dokumentera den. Förslag gör det som markdown-dokument i *Dokumentation*-mappen.
