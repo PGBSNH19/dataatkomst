@@ -52,7 +52,10 @@ Ni kan göra så många branches baserat på *master* som ni önskar. När proje
 * Spelet ska spara i en databas (med code first och Entity Framework) (**viktigt**)
 * Det ska gå att skåpa ett eller fler spel
 * Det ska gå att försätta spela ett inte avslutat eksisterende spel
-* Unit tests (**viktigt**)
+* Automatiserade tester (**viktigt**)
+  * Unit test
+  * Integration test
+  * Functional testing
 * Async kod (om det gir mening)
 * Fluent API (om det gir mening)
 
@@ -67,7 +70,7 @@ Dom fyra element som är markerat med **viktigt** är så klart dom som är vikt
 
 # Tips
 
-Tänka inte grafisk när ni gör eran datamodell!
+Tänka inte visuellt/grafisk när ni gör eran datamodell!
 
 Där er <u>ingen krav</u> på verken Async eller fluent api, det viktigaste är att data sparas i en databas, att koden är testat med automatiserade test och att koden är lätt läst.
 
