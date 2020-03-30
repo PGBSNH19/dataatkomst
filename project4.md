@@ -1,6 +1,6 @@
 # The ludo game - avslutande projekt
 
-I detta projekt ska ni implementera ett fia spel (Ludo på engelska). Spelet ska vara en .net core konsol applikation.
+I detta projekt ska ni implementera ett fia spel (Ludo på engelska), gärna med knuff. Spelet ska vara en .net core konsol applikation.
 
 Det ska gå att spela spelet via en konsol applikation, två till fyra spelare vid samma dator.
 
