@@ -39,21 +39,24 @@ Tillsammans med projektet ska skåpas en video som beskriver projektet.
 Ni kan göra så många branches baserat på *master* som ni önskar. När projektet är slut är det innehållet av master på ert **GitHub**-repo som räknas.
 
 ## Element i bedömning
-* Dokumentaion
+
+* Process (**viktigt**), hur har ni kommat fram till det slutliga resultat
 * En (och endast en) Visual Studio solution placerat i mappen Src
 * Solutionen ska beså av minst två projekt:
   * En .NET Core console-application
   * Class Library med en game engine
 * Koden kompilera och det går att köra projektet lokalt
 * All logik som rör spelet, även kast av tärning, är placerat i spelmotorn
-* Dokumentation av hur spelets element, klasser och funktionalitet
+* Dokumentation av hur spelets element, klasser och funktionalitet (**viktigt**)
   * Ska finnas i Documentation-mappen
-* Spelet ska spara i en databas (med code first och Entity Framework)
+* Spelet ska spara i en databas (med code first och Entity Framework) (**viktigt**)
 * Det ska gå att skåpa ett eller fler spel
 * Det ska gå att försätta spela ett inte avslutat eksisterende spel
-* Unit tests
+* Unit tests (**viktigt**)
+* Async kod (om det gir mening)
+* Fluent API (om det gir mening)
 
-* Async kod
+Dom fyra element som är markerat med **viktigt** är så klart dom som är viktigast i samband med bedömningen. Och det är det som ni ska fokusera på i eran video presentation.
 
 ## Frivilliga element (kan göras som extra)
 
@@ -62,3 +65,8 @@ Ni kan göra så många branches baserat på *master* som ni önskar. När proje
 * Datatjänst
 * **MORE TO COME, kom med förslag**
 
+# Tips
+
+Tänka inte grafisk när ni gör eran datamodell!
+
+Där er <u>ingen krav</u> på verken Async eller fluent api, det viktigaste är att data sparas i en databas, att koden är testat med automatiserade test och att koden är lätt läst.
