@@ -65,8 +65,8 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 **Host Builder**, the Microsoft way to work with Configuration, Servies and Logging
 
 * Exempel, host builder och Entity Framework
-  * Demo video: https://youtu.be/UEogi9HAflE
-  * GitHub: https://github.com/PGBSNH19/dot-net-core-generic-host-demo
+  * Demo video: [Youtube: Generic host](https://youtu.be/UEogi9HAflE)
+  * Kod från video: [GitHub: Genric host](https://github.com/PGBSNH19/dot-net-core-generic-host-demo)
 * [Get started with .NET Generic Host](https://snede.net/get-started-with-net-generic-host/)
 * [Generic Host Builder in ASP .NET Core 3.1](https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/)
 * [.NET Generic Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1)
