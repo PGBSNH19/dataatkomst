@@ -64,6 +64,7 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 
 **Host Builder**, the Microsoft way to work with Configuration, Servies and Logging
 
+* [Get started with .NET Generic Host](https://snede.net/get-started-with-net-generic-host/)
 * [Generic Host Builder in ASP .NET Core 3.1](https://wakeupandcode.com/generic-host-builder-in-asp-net-core-3-1/)
 * [.NET Generic Host](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/host/generic-host?view=aspnetcore-3.1)
 * [Having Fun with the .NET Core Generic Host](https://jmezach.github.io/2017/10/29/having-fun-with-the-.net-core-generic-host/)
