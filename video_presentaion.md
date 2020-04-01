@@ -36,3 +36,11 @@ Screen recoding can be done directly in PowerPoint. You can also use an external
 ## Hint
 
 Do a first version of the presentation video early in the process. To get a simple idea on what do present in the video and get familiar with the tool.
+
+# HowTo
+
+## Create a PowerPoint video
+
+[How to Make a Video in PowerPoint - ppt to video](https://www.youtube.com/watch?v=D8JV3w4TOVw)
+
+[PowerPoint Screen Recording Feature](https://www.youtube.com/watch?v=kQwGEY4IDi0)
