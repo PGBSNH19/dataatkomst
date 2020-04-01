@@ -15,7 +15,8 @@ Lektion från kl. 8:30 till kl. 16:30
 Lunch 12:00 till 13:00
 
 * 13:00 Code review 1 av The Ludo Game
-* 14:00 Mobprogramming, The Ludo Game
+* 14:00 Demo av EF och MongoDB
+* 14:45 Mobprogramming försat, The Ludo Game
 * 16:30 Slut på lektion
 
 # Lektionsteori
