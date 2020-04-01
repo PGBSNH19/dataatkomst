@@ -1,7 +1,21 @@
 # Video presentation
 
-![Draft](/dataatkomst/assets/images/draft.png)
+Do a video presentation of you project which explains your product, important features of your code and the process you have been through while developing your product.
 
-Do a video presentation of you project which shows of the working product and the code behind, everybody in the group should have min 5 min of fame. Release your creativity.
+The video should be some graphical presentation combined with a voice track. 
 
-The video should be uploaded to X, and should have an max length of 30 minutes and min length of (team members x 5 min).
+The video should have a max length of 30 minutes. Everybody in the group should have min 5 minutes of fame, in the sense that though out the video should each team member talk for at least a total of min 5 minutes, make it clear every time you change speaker.
+
+The final movie should be a single file in the MP4 format and should be uploaded to X (TBD: steam / onedrive).
+
+Release your creativity.
+
+## Tools
+
+There is no requirements to which tools you use, but a suggestions is to use the build-in recording functionality in **PowerPoint**, which makes it possible add a sound track (and video) to a presentation.  You could do screenshot of your code and put it into slides.
+
+Screen recoding can be done directly in PowerPoint. You can also use an external tool as the open-source tool [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), or any commercial tool (it's properly possible find a free trail). 
+
+## Hint
+
+Do a first version of the presentation video early in the process. To get a simple idea on what do present in the video and get familiar with the tool.

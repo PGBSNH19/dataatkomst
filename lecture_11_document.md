@@ -10,12 +10,12 @@ Lektion från kl. 8:30 till kl. 16:30
 * 8:30 Uppsamling från förra lektion, unit test   
   - Boarding card, PM på Discord till Stephan
 * 09:00 Introduktion av dagens ämnen, document databases
-* 09:30 Code review 1 av The Ludo Game
-* 10:30 Mobprogramming, The Ludo Game
+* 09:30 Mobprogramming, The Ludo Game
 
 Lunch 12:00 till 13:00
 
-* 13:00 Mobprogramming, The Ludo Game
+* 13:00 Code review 1 av The Ludo Game
+* 14:00 Mobprogramming, The Ludo Game
 * 16:30 Slut på lektion
 
 # Lektionsteori

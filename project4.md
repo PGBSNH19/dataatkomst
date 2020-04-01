@@ -33,7 +33,7 @@ Dokumentation ska skrivas med markdown (.md), ni väljer själv om ni vill skriv
 # Betygsättning
 Detta projekt är avslutande och bär störste delen av ert betyg för denna kurs.
 
-Tillsammans med projektet ska skåpas en video som beskriver projektet.
+Tillsammans med projektet ska skåpas en [video](video_presentaion.md) som beskriver projektet.
 
 ## Koden
 Ni kan göra så många branches baserat på *master* som ni önskar. När projektet är slut är det innehållet av master på ert **GitHub**-repo som räknas.
