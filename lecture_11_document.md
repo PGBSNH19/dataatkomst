@@ -9,7 +9,7 @@ Lektion från kl. 8:30 till kl. 16:30
 
 * 8:30 Uppsamling från förra lektion, unit test   
   - Boarding card, PM på Discord till Stephan
-* 09:30 Mobprogramming, The Ludo Game
+* 09:00 Mobprogramming, The Ludo Game
 * 11:00 Code review 1 av The Ludo Game
   * Primära fokus är dokumentaion
 
