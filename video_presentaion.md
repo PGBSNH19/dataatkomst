@@ -10,6 +10,23 @@ The final movie should be a single file in the MP4 format and should be uploaded
 
 Release your creativity.
 
+## Content of video
+
+Focus in the video should be the following (it does not need to be in this order):
+
+* A walkthrough of the thoughts behind the solution
+  * Diagrams is a good thing
+* A demo of the application running, it could be a video or screenshots
+* Important parts of the code
+  * Parts of the code you are proud of
+  * Cool patterns / frameworks that you have used
+  * Especially useful codereview comments
+* A description of your process
+  * Which tools did you use and for what?
+  * How did the team communicate?
+  * Did you part up your work in the team? And how?
+* Lessons learnt during the process
+
 ## Tools
 
 There is no requirements to which tools you use, but a suggestions is to use the build-in recording functionality in **PowerPoint**, which makes it possible add a sound track (and video) to a presentation.  You could do screenshot of your code and put it into slides.
