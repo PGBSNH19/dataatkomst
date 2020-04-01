@@ -9,14 +9,14 @@ Lektion från kl. 8:30 till kl. 16:30
 
 * 8:30 Uppsamling från förra lektion, unit test   
   - Boarding card, PM på Discord till Stephan
-* 09:00 Introduktion av dagens ämnen, document databases
 * 09:30 Mobprogramming, The Ludo Game
+* 11:00 Code review 1 av The Ludo Game
+  * Primära fokus är dokumentaion
 
 Lunch 12:00 till 13:00
 
-* 13:00 Code review 1 av The Ludo Game
-* 14:00 Demo av EF och MongoDB
-* 14:45 Mobprogramming försat, The Ludo Game
+* 13:00 Introduktion + demo av dagens ämnen, document databases EF och MongoDB
+* 14:15 Mobprogramming försat, The Ludo Game
 * 16:30 Slut på lektion
 
 # Lektionsteori
