@@ -17,6 +17,7 @@ Länkarna i schemat leder till detaljerad information om enskilda lektioner och 
 Beskrivning av mål, moment och bedömning i kursen, hittar ni här:
 
 * [Kursen](info_course.md)
+* [Youtube playlist](https://www.youtube.com/playlist?list=PLIZnNw5DogHdurntHiGj6v4KQ0CT5rQXu)
 
 # Projekt och deadlines
 ## Projekt 1
