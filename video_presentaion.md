@@ -6,7 +6,7 @@ The video should be some graphical presentation combined with a voice track.
 
 The video should have a max length of 30 minutes. Everybody in the group should have min 5 minutes of fame, in the sense that though out the video should each team member talk for at least a total of min 5 minutes, make it clear every time you change speaker.
 
-The final movie should be a single file in the MP4 format and should be uploaded to X (TBD: steam / onedrive).
+The final movie should be a single file in the MP4 format and should be uploaded to Steam in the channel :  [The ludo game presentaions](https://web.microsoftstream.com/channel/6d79f6ea-5f69-4a0a-8715-c6631a3c95c3) (which everybody hopefully have access to), include your group number in the description.
 
 Release your creativity.
 
