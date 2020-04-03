@@ -41,3 +41,4 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
 * [Entity Framework Performance and What You Can Do About It](https://www.red-gate.com/simple-talk/dotnet/net-tools/entity-framework-performance-and-what-you-can-do-about-it/)
 * [Building high performance database queries using Entity Framework Core and AutoMapper](https://www.thereformedprogrammer.net/building-efficient-database-queries-using-entity-framework-core-and-automapper/)
 * [The Repository Pattern isn’t an Anti-Pattern; You’re just doing it wrong](https://brianbu.com/2019/09/25/the-repository-pattern-isnt-an-anti-pattern-youre-just-doing-it-wrong/)
+* Chapeter 12 from book: [EF Core performance tuning](https://livebook.manning.com/book/entity-framework-core-in-action/chapter-12)
