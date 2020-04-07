@@ -2,8 +2,6 @@
 
 Onsdag den 8:e april 2020
 
-![Draft](assets/images/draft.png)
-
 Denna lektion handlar om hur vi kan skåpa datatjänster som kommer åt vår data, vi kommer att använda standarden GraphQL som ett eksampel på en typ av datatjänst.
 
 ## Lektionsplan
@@ -13,7 +11,7 @@ Lektion från kl. 8:30 till kl. 16:30
   - Boarding card, PM på Discord till Stephan
 * 9:00 Introduktion av dagens ämnen, datatjänster med GraphQL
 * 9:30 [Quiz time](https://pgbsnh19.github.io/dataatkomst/strategy_quiztime.html)
-* Code review, 3
+* 11:00 Code review, 3
 
 Lunch 12:00 till 13:00
 
@@ -40,5 +38,7 @@ gPRC är det som "ersätter" WCF i .NET Core:
 * [gPRC](https://grpc.io/) - the offical webpage of the standard
 
 * [Introduction to gRPC on .NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.1)
+
+* [OData](https://www.odata.org/)
 
   
