@@ -35,10 +35,11 @@ gPRC är det som "ersätter" WCF i .NET Core:
 
 * [Heres why you should use gRPC for everything](https://snede.net/heres-why-you-should-use-grpc-for-everything/)
 
-* [gPRC](https://grpc.io/) - the offical webpage of the standard
+  * [gPRC](https://grpc.io/) - the offical webpage of the standard
+  * [Introduction to gRPC on .NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.1)
 
-* [Introduction to gRPC on .NET Core](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.1)
+* [Why OData and how to enable OData in C# .NET Core application](https://medium.com/@abhi.bansal08/why-odata-and-how-to-enable-odata-in-c-net-core-application-1f13ad6ca3d1)
 
-* [OData](https://www.odata.org/)
-
+  * [OData](https://www.odata.org/)
+  
   
