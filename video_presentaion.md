@@ -26,6 +26,7 @@ Focus in the video should be the following (it does not need to be in this order
   * How did the team communicate?
   * Did you part up your work in the team? And how?
 * Lessons learnt during the process
+  * What would you had done differently?
 
 ## Tools
 
