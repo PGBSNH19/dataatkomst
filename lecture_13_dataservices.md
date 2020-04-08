@@ -27,6 +27,7 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 
 * [What Is GraphQL?](https://www.youtube.com/watch?v=VjXb3PRL9WI)
 * [Entity GraphQL](https://github.com/lukemurray/EntityGraphQL)
+* Online GraphQL tester: [graphiql-online](https://lucasconstantino.github.io/graphiql-online/)
 
 ## Bakgrunds litteratur
 Detta är litteratur som är frivillig, och som kan kan används till at få en djupare insikt i ämnen i klassen.
