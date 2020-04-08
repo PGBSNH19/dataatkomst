@@ -43,4 +43,6 @@ gPRC är det som "ersätter" WCF i .NET Core:
 
   * [OData](https://www.odata.org/)
   
+* Senaste GraphQL spec: [Spec juni 2018](http://spec.graphql.org/June2018/)
+
   
