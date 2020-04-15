@@ -50,11 +50,8 @@ Detta är litteratur som är bas för denna lektion, detta bör läses innan man
 **Trådning, async och await**
 
 * [Getting Started with C#'s Async and Await Keywords](https://www.pluralsight.com/guides/csharp-async-await-keywords-getting-started)
-
 * [The Ultimate Guide to Async/Await in C# and ASP.NET](https://exceptionnotfound.net/async-await-in-asp-net-csharp-ultimate-guide/)
-
 * [How YOU can make your .NET programs more responsive with async/await in .NET Core, C# and VS Code](https://dev.to/dotnet/how-you-can-make-your-net-programs-faster-with-asynchronous-code-in-net-core-c-and-vs-code-471c)
-
   
 
 ## Bakgrunds litteratur
