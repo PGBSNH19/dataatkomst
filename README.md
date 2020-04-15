@@ -63,4 +63,5 @@ Deadline för kod: 2020-04-14 at 23:55
 * Slides: [PingPong](https://yh.pingpong.se/courseId/9766/content.do?id=3419879)
 * [Kursbok](info_book.md) : I kursen använder vi boken *Entity Framework Core in action* som frivillig material (den behövs inte för att kunna klara av kursen)
 * [Verktygslådan](info_tools.md) : Vi kommer i kursen att använda en rad olika verktyg, dissa är beskrivet i detta dokument
+* [Omtenta](omtenta.md)
 
