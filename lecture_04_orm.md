@@ -19,6 +19,7 @@ Lektion från kl. 8:30 till kl. 16:30
 * 11:00 Programmeringsövning i grupp
 	* Finns i GitHub classroom
   
+
 Lunch 12:00 till 12:45 **OBS**
 
 * 12:45 Programmeringsövning i grupp
@@ -34,7 +35,7 @@ Teori, exemplar och övningar. Bör genomgås innan lektionen.
 ## Viktig kurslitteratur
 Detta är litteratur som är bas för denna lektion, detta bör läses innan man går på gång med lektionsteorin.
 
-**Object-relational mapping **
+**Object-relational mapping**
 
 * Youtube video: [Introduction to Object-Relational Mapping](https://www.youtube.com/watch?v=dHQ-I7kr_SY)
 * Mario Hoyos: [What is an ORM and Why You Should Use it](https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a) - An introduction to Object-Relational-Mappers
