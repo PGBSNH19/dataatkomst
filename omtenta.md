@@ -46,4 +46,4 @@ Du måste själv boka en tid med Stephan (skriv en IM på ping pong)! Har man in
 Deadline:
 
 * Första omtenta: 15 maj 2020
-* Andra omtenta: 29 maj 2020
+* Andra omtenta (och sidsta): 29 maj 2020
