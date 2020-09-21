@@ -65,3 +65,4 @@ Detta är litteratur som är frivillig, och som kan kan används till at få en 
   * [Understanding Control Flow with Async and Await in C#](https://www.pluralsight.com/guides/understand-control-flow-async-await/)
   * [Using Task.Run in Conjunction with Async/Await](https://www.pluralsight.com/guides/using-task-run-async-await)
   * [Advanced Tips for Using Task.Run With Async/Await](https://www.pluralsight.com/guides/advanced-tips-using-task-run-async-wait)
+* Video (25 min): [C# Async/Await/Task Explained (Deep Dive)](https://www.youtube.com/watch?v=il9gl8MH17s)
