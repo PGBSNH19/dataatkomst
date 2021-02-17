@@ -35,7 +35,7 @@ Teorin inför denna lektion är det som finns i **Viktig kurslitteratur** efters
 * [Summary of 'Clean code' by Robert C. Martin](https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29)
 * [The Boy Scout Rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385), se bakgrunds litteratur som innehåller hela denna artikelserie
 * [Architectural principles](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
-<details>
+<details markdown="1">
   <summary>Fördjubnings litteratur</summary>
 
 * [Difference Between Cohesion and Coupling](https://stackoverflow.com/a/3085419/4675814)
