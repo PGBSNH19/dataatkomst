@@ -34,7 +34,7 @@ Lunch 12:00 till 13:00
 * [The Boy Scout Rule](https://medium.com/@biratkirat/step-8-the-boy-scout-rule-robert-c-martin-uncle-bob-9ac839778385), se bakgrunds litteratur som innehåller hela denna artikelserie
 * [Architectural principles](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/architectural-principles)
 <details markdown="1">
-  <summary>Frivillig fördjupnings litteratur</summary>
+  <summary>Frivillig fördjupningslitteratur (klicka för att visa)</summary>
 
 * [Difference Between Cohesion and Coupling](https://stackoverflow.com/a/3085419/4675814)
 * [OOP Concept for Beginners: What is Encapsulation](https://stackify.com/oop-concept-for-beginners-what-is-encapsulation/)
